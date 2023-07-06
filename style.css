@@ -128,5 +128,43 @@
     border: none;
     border-radius: 3px;
     width: 90px;
+    color: white;
 
+}
+.contactcontainer{
+    background-color: black;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+.contact1{
+    width: 300px;
+    padding: 80px;
+    
+}
+.text{
+    padding-top: 20px;
+    line-height: 30px;
+}
+
+.contact2{
+    list-style: none;
+    padding-top: 30px;
+}
+.content4{
+    padding-top: 10px;
+}
+.logo-sizes{
+    width: 220px;
+}
+.footer{
+    text-align: center;
+    padding: 20px;
+}
+.footers{
+    background-color: black; 
 }
