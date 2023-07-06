@@ -54,6 +54,8 @@
 }
 .description{
     font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .btn{
@@ -63,6 +65,5 @@
     color:white;
 }
 
-}
 
 
